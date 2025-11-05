@@ -1,0 +1,13 @@
+[project]
+name = "flower-pot-hole-mesh"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "cadquery>=2.6.1",
+    "jupyter>=1.1.1",
+    "jupyter-cadquery>=4.0.2",
+    "jupyterlab>=4.4.10",
+    "jupytext>=1.18.1",
+]
